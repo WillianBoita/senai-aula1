@@ -1,0 +1,21 @@
+# Arquivos do Python
+*.pyc
+__pycache__/
+
+# Diretório de migrações do Django
+*/migrations/
+
+# Banco de dados SQLite
+db.sqlite3
+
+# Diretório de ambiente virtual
+venv/
+env/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE
+.idea/
+.vscode/
